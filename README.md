@@ -1,2 +1,2 @@
 # cricsim
-A cricket simulation
+A cricket game simulation and work in progress
